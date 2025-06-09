@@ -1,0 +1,28 @@
+# === Python / Django ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+db.sqlite3
+
+# Django migrations
+**/migrations/
+!*/migrations/__init__.py
+
+# Environment variables
+.env
+
+# Virtual environment
+env/
+
+# === React / Node.js ===
+node_modules/
+build/
+dist/
+*.lock
+
+# === IDE / OS files ===
+.vscode/
+.DS_Store
+Thumbs.db
