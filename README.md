@@ -74,7 +74,7 @@ An AI-powered sales assistant chatbot that helps users search for products via n
 
 1. Navigate to the frontend folder  
    ```bash
-   cd ../frontend
+   cd ../my-react-app
    ```
 
 2. Install dependencies  
@@ -123,7 +123,7 @@ ecommerce-chatbot/
 │   ├── manage.py            # Django entry point
 │   └── ...
 │
-├── frontend/                # React frontend
+├── my-react-app/                # React frontend
 │   ├── components/          # ChatBox, Login, Signup
 │   ├── App.js               # Main React app
 │   └── ...
